@@ -1,0 +1,63 @@
+/* @import url('./headfoot.css'); */
+
+.whole {
+  background-color: #d5b7e6;
+  background-image: url("../assets/bg.svg");
+  background-repeat: no-repeat;
+  align-items: center;
+  background-position: bottom right;
+  background-blend-mode: soft-light;
+  background-size: 15rem 10rem;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding: 50px;
+}
+
+.form {
+  padding: 5px;
+}
+
+.btn {
+  bottom: 40px;
+}
+
+/* table.color {
+} */
+
+.table.color.tr.cell {
+  background-color: red;
+}
+/* body,
+td {
+  font: 11px verdana;
+}
+table.month {
+  color: red;
+}
+
+.table.month tr.dayheader td {
+  background-color: ##8edb00;
+  border: 1px solid ##308800;
+  border-bottom-width: 2px;
+  color: ##e3fb8e;
+  font-weight: bold;
+  padding: 5px 0px 5px 0px;
+  text-align: center;
+}
+
+.table.month tr.day td {
+  background-color: ##e3fb8e;
+  border: 1px solid ##999999;
+  color: ##308800;
+  padding: 5px 0px 5px 0px;
+  text-align: center;
+}
+table.month tr.day td.othermonth {
+  background-color: ##f3fdd0;
+  color: ##999999;
+}
+table.month tr.day td.event {
+  background-color: ##c8f821;
+  color: ##666666;
+  font-weight: bold;
+} */

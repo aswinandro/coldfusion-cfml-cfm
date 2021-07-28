@@ -1,0 +1,34 @@
+/* @import url('./headfoot.css'); */
+
+.whole {
+  background-color: #d5b7e6;
+  background-image: url("../assets/bg.svg");
+  background-repeat: no-repeat;
+  align-items: center;
+  background-position: bottom right;
+  background-blend-mode: soft-light;
+  background-size: 15rem 10rem;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding: 50px;
+}
+
+.form {
+  padding: 20%;
+  padding-top: 10px;
+  width: 80%;
+}
+
+.btn {
+  bottom: 40px;
+}
+
+.form.form_sub {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 5;
+  padding: 90px;
+  width: 70%;
+  justify-content: space-between;
+}
